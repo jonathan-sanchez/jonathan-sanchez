@@ -1,10 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h2>Welcome to my Github</h2>
+<h3>Welcome to my Github</h3>
+
+<h2>My name is Jon, recent Codeup Full-Stack Software Development graduate</h2>
 
 - 🔭 I’m currently working on a pokemon Api project.
 - 🌱 I’m currently learning React.js.
 - 👯 I’m looking to collaborate on anything front or back end.
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun facts: I love Skateboarding and Video Games
 
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan-sanchez&theme=radical&show_icons=true&count_private=true&locale=en" alt="Sanch" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathan-sanchez&theme=radical&show_icons=true&count_private=true&locale=en&layout=compact" alt="Sanch" /></p>
