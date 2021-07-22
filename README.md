@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h2>My name is Jon, recent Codeup Full-Stack Software Development graduate</h2>
+<h3>My name is Jon, recent Codeup Full-Stack Software Development graduate</h3>
 
 - 🔭 I’m currently working on a pokemon Api project.
 - 🌱 I’m currently learning React.js.
