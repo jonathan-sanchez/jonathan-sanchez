@@ -1,6 +1,7 @@
+<body style="align-content: center">
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h3 style="align-content: center">My name is Jonathan</h3>
+<h3>My name is Jonathan</h3>
 
 - 🔭 I’m currently working on a pokemon Api project.
 - 🌱 I’m currently learning React.js.
@@ -10,3 +11,4 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan-sanchez&theme=radical&show_icons=true&count_private=true&locale=en" alt="Sanch" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathan-sanchez&theme=radical&show_icons=true&count_private=true&locale=en&layout=compact" alt="Sanch" /></p>
+</body>
