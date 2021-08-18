@@ -3,7 +3,7 @@
 <body style="align-items: center;">
 <h3>My name is Jonathan</h3>
 
-- 🔭 I’m currently working on a pokemon Api project.
+- 🔭 I’m currently working on a trun based game.
 - 🌱 I’m currently learning React.js.
 - 👯 I’m looking to collaborate on anything front or back end.
 - ⚡ Fun facts: I love Skateboarding and Video Games
