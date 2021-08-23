@@ -1,6 +1,6 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<body style="align-items: center;">
+<body style="justify-content: center">
 <h3>My name is Jonathan!</h3>
 
 - 🔭 I’m currently working on a turn based game.
