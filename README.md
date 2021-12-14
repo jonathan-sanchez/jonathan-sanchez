@@ -5,9 +5,9 @@
 <h3>My name is Jonathan!</h3>
 
 - 🔭 I’m currently working on a solo project.
-- 🌱 I’m currently learning Oracle APEX.
+- 🌱 I’m currently learning Java multithreading.
 - 👯 I’m looking to collaborate on anything front or back end.
-- ⚡ Fun facts: I love Skateboarding and Video Games
+- ⚡ Fun facts: I love Skateboarding, programming and Video Games.
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan-sanchez&theme=radical&show_icons=true&count_private=true&locale=en" alt="Sanch" /></p>
