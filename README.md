@@ -10,6 +10,3 @@
 - ⚡ Fun facts: I love Skateboarding, programming and Video Games.
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan-sanchez&theme=radical&show_icons=true&count_private=true&locale=en" alt="Sanch" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathan-sanchez&theme=radical&show_icons=true&count_private=true&locale=en&layout=compact" alt="Sanch" /></p>
-</body>
