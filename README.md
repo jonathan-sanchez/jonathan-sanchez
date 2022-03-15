@@ -9,4 +9,4 @@
 
 <br>
 
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-sanchez&show_icons=true)](https://github.com/jonathan-sanchez/github-readme-stats)
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-sanchez&show_icons=true&theme=radical)](https://github.com/jonathan-sanchez/github-readme-stats)
