@@ -10,3 +10,5 @@
 <br>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-sanchez&theme=<THEME_NAME>" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/\<CARD_TYPE>/?username=jonathan-sanchez&theme=<THEME_NAME>" />
