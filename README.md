@@ -9,6 +9,4 @@
 
 <br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-sanchez&theme=<THEME_NAME>" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-sanchez&theme=<THEME_NAME>" />
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-sanchez)](https://github.com/anuraghazra/github-readme-stats)
