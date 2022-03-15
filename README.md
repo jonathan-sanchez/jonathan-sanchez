@@ -9,7 +9,7 @@
 - ⚡ Fun facts: I love Skateboarding, programming and Video Games.
   
   
-### Git Stats
+# Git Stats
 
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-sanchez&show_icons=true&theme=radical)](https://github.com/jonathan-sanchez/github-readme-stats)
 
