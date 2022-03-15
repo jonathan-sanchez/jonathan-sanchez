@@ -11,4 +11,4 @@
 
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-sanchez&show_icons=true&theme=radical)](https://github.com/jonathan-sanchez/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-sanchez&layout=compact)](https://github.com/jonathan-sanchez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-sanchez&show_icons=true&theme=radical&layout=compact)](https://github.com/jonathan-sanchez/github-readme-stats)
