@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning Java multithreading.
 - 👯 I’m looking to collaborate on anything front or back end.
 - ⚡ Fun facts: I love Skateboarding, programming and Video Games.
-
-<br>
+  
+  ####
 
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-sanchez&show_icons=true&theme=radical)](https://github.com/jonathan-sanchez/github-readme-stats)
 
