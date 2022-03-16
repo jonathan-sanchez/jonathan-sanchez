@@ -11,7 +11,6 @@
   
 ## 
   
-  ![](https://img.shields.io/badge/#007396-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-sanchez&show_icons=true&theme=radical)](https://github.com/jonathan-sanchez/github-readme-stats)
 
