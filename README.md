@@ -1,7 +1,8 @@
 
 # Hello my name is Jonathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<body style="background: linear-gradient(to right, #2C5364, #203A43, #0F2027);">
+
+Software Engineer | US Army Infantry Veteran
 
 - 🔭 I’m currently working on a solo project.
 - 🌱 I’m currently learning Java multithreading.
