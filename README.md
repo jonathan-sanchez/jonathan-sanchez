@@ -4,10 +4,10 @@
 
 ## Software Engineer | US Army Infantry Veteran
 
-- 🔭 I’m currently working on a solo project.
-- 🌱 I’m currently learning Java multithreading.
-- 👯 I’m looking to collaborate on anything front or back end.
-- ⚡ Fun facts: I love Skateboarding, programming and Video Games.
+- 🔭 I’m currently working on my professional website.
+- 🌱 Diving deep into Java multithreading and React.js.
+- 👯 Always open to collaborate on anything front or back end.
+- ⚡ Fun facts: I love Skateboarding, Programming and Video Games.
   
   
 ## 
