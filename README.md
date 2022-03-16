@@ -2,7 +2,7 @@
 # Hello my name is Jonathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-Software Engineer | US Army Infantry Veteran
+# Software Engineer | US Army Infantry Veteran
 
 - 🔭 I’m currently working on a solo project.
 - 🌱 I’m currently learning Java multithreading.
