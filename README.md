@@ -1,6 +1,8 @@
-<p> align="center"
-<img src="https://github.com/jonathan-sanchez/jonathan-sanchez/blob/main/Gaming%20Twitch%20Banner.MP4"/>
-</p>
+
+
+https://user-images.githubusercontent.com/78042252/166304811-836a4ebe-5acc-4b1a-9fce-050f28a92347.MP4
+
+
 
 # Hello my name is Jonathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
