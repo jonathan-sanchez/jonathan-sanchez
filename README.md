@@ -1,4 +1,4 @@
-# ![](https://github.com/jonathan-sanchez/jonathan-sanchez/blob/main/Gaming%20Twitch%20Banner.MP4)
+<img src="https://github.com/jonathan-sanchez/jonathan-sanchez/blob/main/Gaming%20Twitch%20Banner.MP4" alt="GitHub Readme Banner" style="float: left; margin: right"/>
 
 # Hello my name is Jonathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
