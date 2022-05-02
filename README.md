@@ -7,6 +7,7 @@
 # Hello my name is Jonathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jonathan-sanchez.jonathan-sanchez)
+[![Github](https://img.shields.io/github/followers/jonathan-sanchez?label=Follow&style=social)](https://github.com/jonathan-sanchez)
 
 
 ## Software Engineer | US Army Infantry Veteran
